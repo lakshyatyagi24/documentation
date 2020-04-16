@@ -34,27 +34,50 @@ Everything you want to know about Voiceflow - in one place.
 
 ## Contributing
 
-1. Create new branch 
+<!-- 1. Create new branch 
 
 ![img](https://i.imgur.com/Ykt2vVM.png)
 
-![img](https://i.imgur.com/oZsWDjM.png)
+![img](https://i.imgur.com/oZsWDjM.png) -->
 
-2. Open the project in your code editor
+1. Open the project in your code editor
 
 ![img](https://i.imgur.com/QLqidhp.png)
 
-3. Find the folder you want to add your new article to and add the markdown file
-8. Head to _sidebar.md and add your article under any of the categories
-9. Head to Github and add a comment detailing what changes you made
+2. Find the folder you want to add your new article to and add the markdown file
+3. Head to _sidebar.md and add your article under any of the categories
+4. Head to Github and add a comment detailing what changes you made
 
 ![img](https://i.imgur.com/wYNn7E6.png)
 
-10. Hit Publish
+5. Hit Publish
 
 ![img](https://i.imgur.com/cGVY2Ie.png)
 
+6. When prompted to fork a new repository hit "Fork this repository"
 
+![img](https://i.imgur.com/FJSogiy.png)
+
+
+## Submitting your changes
+
+1. Head to Voiceflows Documentation Github page (https://github.com/voiceflow/documentation)
+
+2. Hit "New Pull Request"
+
+![img](https://i.imgur.com/Zd20gqC.png)
+
+3. Hit "Compare across forks"
+
+![img](https://i.imgur.com/iFITAfJ.png)
+
+4. Find your branch in the drop down and select the one linked to your Github account
+
+![img](https://i.imgur.com/beSyRsc.png)
+
+5. Fill out details about the changes that were made and hit "Create Pull Request"
+
+![img](https://i.imgur.com/lMHyf9h.png)
 
 
 # General Rules and Etiquette 
