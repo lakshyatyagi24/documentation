@@ -12,7 +12,7 @@ Everything you want to know about Voiceflow - in one place.
 
 
 
-## Set up
+# Set up
 
 1. Download [GitHub desktop](https://desktop.github.com/)
 
@@ -32,7 +32,7 @@ Everything you want to know about Voiceflow - in one place.
 
 
 
-## Contributing
+# Contributing
 
 <!-- 1. Create new branch 
 
@@ -59,7 +59,7 @@ Everything you want to know about Voiceflow - in one place.
 ![img](https://i.imgur.com/FJSogiy.png)
 
 
-## Submitting your changes
+# Submitting your changes
 
 1. Head to Voiceflows Documentation Github page (https://github.com/voiceflow/documentation)
 
