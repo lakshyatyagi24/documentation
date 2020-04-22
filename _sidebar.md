@@ -21,7 +21,10 @@
   - [Reminder block](/blocks/reminder-block.md)
   - [Exit block](/blocks/exit-block.md)
   - [Card block](/blocks/card-block.md)
-  
+
+**GOOGLE ACTIONS** 
+  - [Uploading your project to Google Assistant](/adapting-for-google/uploading-your-project-to-google-assistant.md)  
+  - [Deploying your Google Assistant project to production](/adapting-for-google/deploying-your-google-assistant-project-to-production.md)  
 
 **TUTORIALS**
   - [What are Alexa skills and Google actions?](/tutorials/what-are-alexa-skills.md)
