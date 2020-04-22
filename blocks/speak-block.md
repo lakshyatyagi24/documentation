@@ -1,4 +1,4 @@
-# What You'll Learn 
+# What You'll Learn 🧠
 - What the Speak block does
 - How to make your Voice Assistant speak
 - How to use different Alexa voices throughout your skill
@@ -8,24 +8,12 @@
 ## Overview
 The Speak block allows you to output speech and audio for the user. With the Speak block, you can have your assistant talk to the user in a variety of voices, as well as play audio files.
 
-![img](https://i.imgur.com/Dd2s8AQ.png)
-
 ## Speak block basics
 
 To output speech, drag in a Speak block and click on it. On the far left panel, you'll see a text box where you can enter text to output to the user.
 
 
 You can type anything!
-
-![img](https://i.imgur.com/1LYSx65.png)
-
-By clicking "Add Effect", you can also use SSML tags to change the way your voice assistant speaks.
-
-## Change the Vocalization of Your Text with SSML Tags
-To output different sounding speech, you may use SSML tags within you Speak block. SSML is a special format created to modify how voice assistants talk.
-
-We have an in-depth tutorial on using SSML tags here.
-
 
 ## Using different voices
 
@@ -47,14 +35,12 @@ You can use multiple variables in a single Speak block.
 ## Playing Audio Files
 Using the Speak block you can have play short audio files for the user. To do this, within the Speak block hit "Audio".
 
-![img](https://i.imgur.com/rIJ3P2R.png)
+
 
 When you do this, you'll create a new section for an Audio file which will be played in order with your Speak block sequence, or at random if you have that option toggled. 
 Here, you can upload an audio file to be hosted on Voiceflow, or, you can link to a file you are hosting on your location. 
 
 Once you have added a file you will see the length of the file, and be able to preview the sound. You are able to traverse through your audio file by clicking on different parts of the audio player.
-
-Files can either be uploaded from your device or uploaded onto a third party service. Pasting the URL to the file will allow you to play it inside the Speak block.
 
 
 
@@ -72,4 +58,9 @@ You can output a random 'section' from within your speak block. For example, if 
 
 To do this, hit the three dot button and select "Randomize Outputs". To reset to sequential outputting, hit the three dot button and select "Unrandomize Outputs".
 
-![img](https://i.imgur.com/OAKYwrY.png)
+
+
+## Change the Vocalization of Your Text with SSML Tags
+To output different sounding speech, you may use SSML tags within you Speak block. SSML is a special format created to modify how voice assistants talk.
+
+We have an in-depth tutorial on using SSML tags here.

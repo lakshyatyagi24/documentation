@@ -1,15 +1,18 @@
-## What You'll Learn 
+## What You'll Learn 🧠
 
 - What Capture blocks do
 - How to use a Capture block
 - How to capture a user's answer into a variable
 
+## Video Tutorial
+
+(updated video-tutorial coming soon)
 
 ## What the Capture Block Does
 
 The Capture block allows you to capture the user's response into a variable. Once this response is stored in the variable, you can use this value throughout the rest of the skill. 
 
-- i.e. You can ask the user what their name is using a Speak block, then follow that up with a capture block to capture the user's name into a name variable. You could then use the user's name throughout the rest of the project.
+- i.e. You can ask the user what their name is using a Speak block, then follow that up with a capture block to capture the user's name into a name variable. You could then use the user's name throughout the rest of the project. this is a gchange to demonstrate github.
 
 ## How to Use the Capture block
 
