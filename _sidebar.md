@@ -19,6 +19,7 @@
   - [Code block](/blocks/code-block.md)
   - [User Info block](/blocks/user-info-block.md)
   - [Reminder block](/blocks/reminder-block.md)
+  - [Exit block](/blocks/exit-block.md)
   
 
 **TUTORIALS**
