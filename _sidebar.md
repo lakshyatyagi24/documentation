@@ -24,7 +24,8 @@
 
 **GOOGLE ACTIONS** 
   - [Uploading your project to Google Assistant](/adapting-for-google/uploading-your-project-to-google-assistant.md)  
-  - [Deploying your Google Assistant project to production](/adapting-for-google/deploying-your-google-assistant-project-to-production.md)  
+  - [Deploying your Google Assistant project to production](/adapting-for-google/deploying-your-google-assistant-project-to-production.md)
+  - [How Voiceflow manages cross-platform building](/adapting-for-google/how-voiceflow-manages-cross-platform-building.md)
 
 **TUTORIALS**
   - [What are Alexa skills and Google actions?](/tutorials/what-are-alexa-skills.md)
