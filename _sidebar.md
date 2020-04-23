@@ -16,6 +16,7 @@
   - [Random block](/blocks/random-block.md)
   - [Stream block](/blocks/stream-block.md)
   - [Flow block](/blocks/flow-block.md)
+  - [API block](/blocks/api-block.md)
   - [Code block](/blocks/code-block.md)
   - [User Info block](/blocks/user-info-block.md)
   - [Reminder block](/blocks/reminder-block.md)
