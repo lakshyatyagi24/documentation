@@ -1,23 +1,55 @@
-## What you'll learn 
+**## What you'll learn** 
 
-- How to pull emails, phone numbers, and names from users
-- Use the Customer Profile API (Alexa)
-- Access user Amazon profile information
 
-**Video tutorial**
 
-**User Info and Permissions block overview** The User Info and Permissions blocks allows you to ask users for information from their Amazon account - such as their email, name, and phone number. For more technical users, this uses the Alexa Customer Profiles API. 
+\- How to pull emails, phone numbers, and names from users
 
-Users will be given a permissions card when downloading your skill asking for their info. Users can accept, or decline to give you their permissions - and which ones they do give. 
+\- Use the Customer Profile API (Alexa)
 
-![img](https://downloads.intercomcdn.com/i/o/110272712/97eaf2308c1907b12003f49c/image.png)
+\- Access user Amazon profile information
 
-Permitted user emails, phone numbers, and names are stored in variables set by the creator.
 
-![img](https://downloads.intercomcdn.com/i/o/110272810/72bbbc5b464282b4887273bf/image.png)
 
-**User Info Success block port** The success block port is not labeled. When permissions are granted, and transferred to your selected variables, the skill will follow the success path.
+## What is the User Info block?
 
-**User Info Fail block port** The failed block port will activate when the users decline to give your skill the requested permissions or permissions request fails.
 
-The use is therefore as follows: Within the user info block you select the information you want to obtain, if the user has not yet authorized your skill the path will follow the fail port. On this port you connect the Permission block that will generate the card in the Alexa application and on [alexa.amazon.com](http://alexa.amazon.com/) The user will have to accept this request for you to get this information. A good practice is to use a speak block on the output port of the Permission block with a message of the type: 'Our skill requires access to your email, please authorize our skill in your Alexa application or from [alexa.amazon.com](http://alexa.amazon.com/) and restart the skill again.'
+
+The User Info block allows you to retrieve information from a users account and save it into a variable for use in your project. You can retrieve information like the users name, email, location of their device and other informaiton without having to ask the user. This information is pulled directly from the users Amazon account or Alexa device. 
+
+![img](https://i.imgur.com/VlbJJrd.png)
+
+
+
+## How to use the User info block
+
+
+
+The user info block allows you to retrieve one or multiple pieces of information at a time. To add more than one retrieval, click the "Add Request button"
+
+![img](https://i.imgur.com/WwEjpAz.png)
+
+
+
+## Supported Information types
+
+Currently, the supportted types of information that you can pull are:
+
+
+
+- User email
+
+- User Name
+
+- User Phone Number
+
+- Location
+
+- Whether "Reminders" are enabled
+
+- Whether "Alexa lists" can be read from
+
+- Whether "Alexa lists" can be written to
+
+- Wehther "Notifications" are enabled
+
+- Whether "Skill Personalization" is enabled
