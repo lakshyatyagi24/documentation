@@ -16,6 +16,7 @@
   - [Random block](/blocks/random-block.md)
   - [Stream block](/blocks/stream-block.md)
   - [Flow block](/blocks/flow-block.md)
+  - [API block](/blocks/api-block.md)
   - [Code block](/blocks/code-block.md)
   - [User Info block](/blocks/user-info-block.md)
   - [Reminder block](/blocks/reminder-block.md)
@@ -24,7 +25,9 @@
 
 **GOOGLE ACTIONS** 
   - [Uploading your project to Google Assistant](/adapting-for-google/uploading-your-project-to-google-assistant.md)  
-  - [Deploying your Google Assistant project to production](/adapting-for-google/deploying-your-google-assistant-project-to-production.md)  
+  - [Deploying your Google Assistant project to production](/adapting-for-google/deploying-your-google-assistant-project-to-production.md)
+  - [How Voiceflow manages cross-platform building](/adapting-for-google/how-voiceflow-manages-cross-platform-building.md)
+  - [Deleting projects in Google Action Console](/adapting-for-google/deleting-projects-in-google-actions-console.md)
 
 **TUTORIALS**
   - [What are Alexa skills and Google actions?](/tutorials/what-are-alexa-skills.md)
