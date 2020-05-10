@@ -1,4 +1,4 @@
-**## What you'll learn**
+## What you'll learn
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-***\*What are flows?\****
+## What are flows?
 
 
 
@@ -30,7 +30,7 @@ Flow blocks work like a file system for your projects - you can see this on the 
 
 
 
-***Flow diagram\****
+## Flow diagram
 
 Once a flow has been entered, you are shown a version of the start block that carries on from where the flow block beggins. This block acts similary to the standard start block in the ROOT flow but will not be the starting point of the project, only for the specific flow that it is in.
 
@@ -38,7 +38,7 @@ Once a flow has been entered, you are shown a version of the start block that ca
 
 
 
-***\*The ROOT flow\****
+## The ROOT flow
 
 
 
@@ -58,15 +58,15 @@ There are three settings for each flow block:
 
 
 
-\1. ***\*Editing flow names\**** You can edit every flow name except for the ROOT. When you do this, you cannot rename a flow to a name that is already taken. 
+1. ***\*Editing flow names\**** You can edit every flow name except for the ROOT. When you do this, you cannot rename a flow to a name that is already taken. 
 
-\2. ***\*Copying flows\**** When copying flows you will copy just the single flow. For example, if you are copying a flow that has a flow within it, you will only be able to copy one layer at a time. Doing so will produce an exact duplicate of the flow you had copied.
+2. ***\*Copying flows\**** When copying flows you will copy just the single flow. For example, if you are copying a flow that has a flow within it, you will only be able to copy one layer at a time. Doing so will produce an exact duplicate of the flow you had copied.
 
-\3. ***\*Deleting a flow\**** When you delete a flow you are deleting it permanently. It is highly recommended you do not delete flows unless you 100% are sure of doing so.
+3. ***\*Deleting a flow\**** When you delete a flow you are deleting it permanently. It is highly recommended you do not delete flows unless you 100% are sure of doing so.
 
 
 
-Flows Menu
+## Flows Menu
 
 
 
@@ -92,7 +92,7 @@ By doing this you'll be able to reuse the flow. If the other flow was in the 'ot
 
 
 
-***\*Creating flows\****
+## Creating flows
 
 
 
@@ -112,7 +112,7 @@ Once you create the flow, you will see your new flow active on the left flow bar
 
 
 
-***\*Local variables in flows\****
+## Local variables in flows
 
 
 
@@ -128,7 +128,7 @@ Local variables are different than global variables which are accessible through
 
 
 
-***\*Sharing local variables between flows\****
+## Sharing local variables between flows
 
 
 

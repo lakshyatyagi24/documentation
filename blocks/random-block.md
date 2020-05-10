@@ -4,9 +4,8 @@
 - How and when to use Random blocks
 - How to not get duplicates using the Random block
 
-**Video tutorial**
 
-**What is the Random block?**
+## What is the Random block?
 
 The random block allows you to randomize where the user is taken in your flow.
 
@@ -16,7 +15,7 @@ You can setup multiple paths and when the Random block is activated, the user wi
 
 Above, the user would be sent to a random option of the 3 available paths.
 
-**Adding random options**
+## Adding random options
 
 To add random options, click 'add random option'. 
 
@@ -24,7 +23,7 @@ To add random options, click 'add random option'.
 
 To remove a path, click the 'remove path' button. If all the paths are not connected to an option, there is a chance that the random option will hit an option without a connection, and end the skill as result.
 
-**No duplicates - don't go down the same path twice**
+## No duplicates - don't go down the same path twice
 
 The no duplicates option makes the user not go down the same path twice if the same random block is activated multiple times. 
 

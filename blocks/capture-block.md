@@ -3,7 +3,7 @@
 - What Capture blocks do
 - How to use a Capture block
 - How to capture a user's answer into a variable
-- 
+
 
 ## What the Capture Block Does
 

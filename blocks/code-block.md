@@ -1,4 +1,4 @@
-## **What You'll Learn 🧠**
+## **What You'll Learn **
 
 ➤   What the code block is and how it works
 
