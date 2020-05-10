@@ -10,84 +10,15 @@ Everything you want to know about Voiceflow - in one place.
 - Visual Studio Code (Editor)
 - Macdown (Markdown preview tool)
 
-## Uploading Images
+## Getting Started
 
-1. Head to [Imgur](https://imgur.com/) (Any photo hosting website will work as well)
-2. Hit "New Post"
-3. Upload your images
+- [Uploading Images](/_setup/upload_imaged.md)
 
+- [Set Up](/_setup/setup-repo.md)
 
-# Set up
+- [Contributing](_setup/contributing.md/)
 
-1. Download [GitHub desktop](https://desktop.github.com/)
-
-<img src="https://i.imgur.com/58cm52i.png" alt="img" style="zoom:50%;" />
-
-2. Log in with your Github account
-3. Hit "clone a repository from the internet"
-
-<img src="https://i.imgur.com/58cm52i.png" alt="img" style="zoom:50%;" />
-
-4. Head to Voiceflow/documentation Github repository
-5. Paste it into the text box (`https://github.com/voiceflow/documentation.git`)
-
-<img src="https://i.imgur.com/3dMY0By.png" alt="img" style="zoom:50%;" />
-
-
-
-# Contributing
-
-<!-- 1. Create new branch 
-
-![img](https://i.imgur.com/Ykt2vVM.png)
-
-![img](https://i.imgur.com/oZsWDjM.png) -->
-
-1. Open the project in your code editor
-
-<img src="https://i.imgur.com/QLqidhp.png" alt="img" style="zoom:67%;" />
-
-2. Find the folder you want to add your new article to and add the markdown file
-3. Head to _sidebar.md and add your article under any of the categories
-4. Head to Github and add a comment detailing what changes you made
-
-<img src="https://i.imgur.com/wYNn7E6.png" alt="img" style="zoom:67%;" />
-
-5. Hit Publish
-
-<img src="https://i.imgur.com/cGVY2Ie.png" alt="img" style="zoom:67%;" />
-
-
-6. When prompted to fork a new repository hit "Fork this repository"
-
-<img src="https://i.imgur.com/FJSogiy.png" alt="img" style="zoom:67%;" />
-
-
-
-# Submitting your changes
-
-1. Head to Voiceflows Documentation Github page (https://github.com/voiceflow/documentation)
-
-2. Hit "New Pull Request"
-
-<img src="https://i.imgur.com/Zd20gqC.png" alt="img" style="zoom:67%;" />
-
-
-3. Hit "Compare across forks"
-
-<img src="https://i.imgur.com/iFITAfJ.png" alt="img" style="zoom:67%;" />
-
-
-
-4. Find your branch in the drop down and select the one linked to your Github account
-
-<img src="https://i.imgur.com/beSyRsc.png" alt="img" style="zoom:67%;" />
-
-
-5. Fill out details about the changes that were made and hit "Create Pull Request"
-
-<img src="https://i.imgur.com/lMHyf9h.png" alt="img" style="zoom:67%;" />
-
+- [Submitting Changes](/_setup/setup-changes.md)
 
 
 # General Rules and Etiquette 
@@ -112,9 +43,9 @@ File format:
     - Prerequisites
     - Content (Content that the doc article is about)
 
-## Branch ettiquette
+## Forking ettiquette
 
-- All new changes MUST be put on a branch with a specific name.
+- All new changes MUST be put on a fork with a specific name.
     - Good ettiquette: “Google Home update”
     - Bad etiquette: “new article”
 - All new branches must create pull requests to the `dev` environment
