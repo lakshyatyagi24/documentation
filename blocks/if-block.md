@@ -1,14 +1,16 @@
-**## \**What you'll learn\****
+# If Block
+
+## What You'll Learn
 
 
 
-\- What IF blocks are, and how they work
+- What IF blocks are, and how they work
 
-\- When and how to use IF blocks
+- When and how to use IF blocks
 
 
 
-**## \**What is an IF block?\****
+## What is an IF block?
 
 
 

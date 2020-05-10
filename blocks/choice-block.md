@@ -1,16 +1,18 @@
-# What you'll learn
+# Choice Block
 
- \- What Choice blocks are
+## What You'll Learn
 
-\- How to add choices for your users to make
+- What Choice blocks are
 
-\- How choices work when the user answers properly
+- How to add choices for your users to make
+
+- How choices work when the user answers properly
 
 
 
 ## Related articles
 
-\- Intents and Slots
+- Intents and Slots
 
 ## What Are Choice Blocks?
 

@@ -1,4 +1,6 @@
-## What you will learn
+# Random Block
+
+## What You'll Learn
 
 - What Random blocks are
 - How and when to use Random blocks

@@ -1,21 +1,22 @@
-## **What You'll Learn **
+# Code Block
+## What You'll Learn 
 
 ➤   What the code block is and how it works
 
 ➤   Example applications of the code block
 
-## **Code Block Overview**
+## Code Block Overview**
 
 The code block accepts a popular programming language known as **JavaScript**. If you don't know how to code, that's alright! Thankfully, there's lots of resources we can use to integrate this block into our skill's logic. 
 
 ![img](https://downloads.intercomcdn.com/i/o/109208313/0c2cfde1732a1a448196de06/Screen+Shot+2019-03-15+at+5.09.20+PM.png)
 
-## **JavaScript Resources**
+## JavaScript Resources
 
 - [W3Schools](https://www.w3schools.com/js/) - good for learning JS syntax and supported functions
 - [Stack Overflow](https://stackoverflow.com/) - good for finding answers to specific questions (must specify that you're using JS in your search).
 
-## **Beginner's Example**
+## Beginner's Example**
 
 To store a random number from 0 - 100 in the {random_num} variable put this in your Code block:
 

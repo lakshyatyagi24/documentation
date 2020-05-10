@@ -1,12 +1,14 @@
-**## What you'll learn** 
+# User Info Block
+
+## What You'll Learn
 
 
 
-\- How to pull emails, phone numbers, and names from users
+- How to pull emails, phone numbers, and names from users
 
-\- Use the Customer Profile API (Alexa)
+- Use the Customer Profile API (Alexa)
 
-\- Access user Amazon profile information
+- Access user Amazon profile information
 
 
 

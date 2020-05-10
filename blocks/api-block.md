@@ -1,4 +1,6 @@
-## What you'll learn
+# API Block
+
+## What You'll Learn
 
 - What the API block is and how it works
 - How to use the API block

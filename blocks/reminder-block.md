@@ -1,4 +1,4 @@
-n this article you will learn how to use the reminder block in conjunction with the User Info and Permission blocks.
+In this article you will learn how to use the reminder block in conjunction with the User Info and Permission blocks.
 
 To start you will need the User Info block to check if the user has authorized access to the Reminder for your skill.Add a **User Info** block and click on **+ Add Permission Request**
 

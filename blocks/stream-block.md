@@ -1,4 +1,6 @@
-## What you'll learn
+# Stream Block
+
+## What You'll Learn
 
 - What the stream block is and how it works
 - How and when to use the Stream block

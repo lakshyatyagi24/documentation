@@ -1,15 +1,17 @@
-## **What You'll Learn**
+# Intent Block
+
+## What You'll Learn
 
 - What Intent blocks are and how they work
 - The applications of the Intent block
 
-## **What Are Intent Blocks?**
+## What Are Intent Blocks?
 
 Intent blocks allow you to add shortcuts within your project. With Intent blocks, a user can say an intent at any point within the skill (or outside the skill) and "jump" to that point in the project.
 
 For example, you could add an intent for 'Home' which allows the user to always return to a home menu using the Intent block. Or, you could use a Intent Block to jump to a new place in an interactive story ⏤ the use cases are endless.
 
-## **How Intent Blocks Work**
+## How Intent Blocks Work
 
 ![img](https://i.imgur.com/EKWwRiL.png)
 
