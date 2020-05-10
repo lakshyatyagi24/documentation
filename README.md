@@ -10,25 +10,28 @@ Everything you want to know about Voiceflow - in one place.
 - Visual Studio Code (Editor)
 - Macdown (Markdown preview tool)
 
+## Uploading Images
+
+1. Head to [Imgur](https://imgur.com/) (Any photo hosting website will work as well)
+2. Hit "New Post"
+3. Upload your images
 
 
 # Set up
 
 1. Download [GitHub desktop](https://desktop.github.com/)
 
-![img](https://i.imgur.com/58cm52i.png)
+<img src="https://i.imgur.com/58cm52i.png" alt="img" style="zoom:50%;" />
 
 2. Log in with your Github account
 3. Hit "clone a repository from the internet"
 
-![img](https://i.imgur.com/58cm52i.png)
+<img src="https://i.imgur.com/58cm52i.png" alt="img" style="zoom:50%;" />
 
 4. Head to Voiceflow/documentation Github repository
 5. Paste it into the text box (`https://github.com/voiceflow/documentation.git`)
 
-![img](https://i.imgur.com/3dMY0By.png)
-
-
+<img src="https://i.imgur.com/3dMY0By.png" alt="img" style="zoom:50%;" />
 
 
 
@@ -42,21 +45,23 @@ Everything you want to know about Voiceflow - in one place.
 
 1. Open the project in your code editor
 
-![img](https://i.imgur.com/QLqidhp.png)
+<img src="https://i.imgur.com/QLqidhp.png" alt="img" style="zoom:67%;" />
 
 2. Find the folder you want to add your new article to and add the markdown file
 3. Head to _sidebar.md and add your article under any of the categories
 4. Head to Github and add a comment detailing what changes you made
 
-![img](https://i.imgur.com/wYNn7E6.png)
+<img src="https://i.imgur.com/wYNn7E6.png" alt="img" style="zoom:67%;" />
 
 5. Hit Publish
 
-![img](https://i.imgur.com/cGVY2Ie.png)
+<img src="https://i.imgur.com/cGVY2Ie.png" alt="img" style="zoom:67%;" />
+
 
 6. When prompted to fork a new repository hit "Fork this repository"
 
-![img](https://i.imgur.com/FJSogiy.png)
+<img src="https://i.imgur.com/FJSogiy.png" alt="img" style="zoom:67%;" />
+
 
 
 # Submitting your changes
@@ -65,19 +70,24 @@ Everything you want to know about Voiceflow - in one place.
 
 2. Hit "New Pull Request"
 
-![img](https://i.imgur.com/Zd20gqC.png)
+<img src="https://i.imgur.com/Zd20gqC.png" alt="img" style="zoom:67%;" />
+
 
 3. Hit "Compare across forks"
 
-![img](https://i.imgur.com/iFITAfJ.png)
+<img src="https://i.imgur.com/iFITAfJ.png" alt="img" style="zoom:67%;" />
+
+
 
 4. Find your branch in the drop down and select the one linked to your Github account
 
-![img](https://i.imgur.com/beSyRsc.png)
+<img src="https://i.imgur.com/beSyRsc.png" alt="img" style="zoom:67%;" />
+
 
 5. Fill out details about the changes that were made and hit "Create Pull Request"
 
-![img](https://i.imgur.com/lMHyf9h.png)
+<img src="https://i.imgur.com/lMHyf9h.png" alt="img" style="zoom:67%;" />
+
 
 
 # General Rules and Etiquette 
