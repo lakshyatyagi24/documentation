@@ -12,13 +12,14 @@ Everything you want to know about Voiceflow - in one place.
 
 ## Getting Started
 
-- [Uploading Images](/_setup/upload_imaged.md)
 
-- [Set Up](/_setup/setup-repo.md)
+### [Set Up](/_setup/setup-repo.md)
 
-- [Contributing](_setup/contributing.md/)
+### [Contributing](_setup/contributing.md/)
 
-- [Submitting Changes](/_setup/setup-changes.md)
+### [Uploading Images](/_setup/upload-images.md)
+
+### [Submitting Changes](/_setup/submitting-changes.md)
 
 
 # General Rules and Etiquette 
