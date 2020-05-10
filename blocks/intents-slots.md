@@ -1,10 +1,10 @@
-**# Intents and slots** 
+# Intents and slots
 
 
 
 
 
-**## Intents** 
+## Intents
 
 
 
@@ -16,13 +16,13 @@ Creating an intent consists of two parts:
 
 
 
-\1. Giving your intent a name
+1. Giving your intent a name
 
-\2. Giving your intent utterances
+2. Giving your intent utterances
 
 
 
-**### Naming your intent**
+## Naming your intent
 
 
 
@@ -34,7 +34,7 @@ The name of your intent does not affect your intent in any way. It is a way for 
 
 
 
-**### Utterances**
+## Utterances
 
 
 
@@ -42,7 +42,7 @@ Utterances are examples of what your user can say to trigger your intent. You sh
 
 
 
-**### Intent Example**
+## Intent Example
 
 
 
@@ -54,19 +54,19 @@ Name: `order_pizza`
 
 
 
-\- What are your options for ordering a pizza?
+- What are your options for ordering a pizza?
 
-\- How can I order a pizza?
+- How can I order a pizza?
 
-\- I want a pizza
+- I want a pizza
 
-\- I want to order a pepperoni pizza
+- I want to order a pepperoni pizza
 
-\- I want to order a cheese pizza
+- I want to order a cheese pizza
 
-\- I want to order a vegetarian pizza
+- I want to order a vegetarian pizza
 
-\- I want to order a pizza
+- I want to order a pizza
 
 
 
@@ -78,7 +78,7 @@ As you can see, there are numerous ways to order a pizza and we need to account 
 
 
 
-**## Slots**
+## Slots
 
 
 
@@ -106,11 +106,11 @@ Name: `order_pizza`
 
 
 
-\- I want to order a pizza
+- I want to order a pizza
 
-\- I want a `{toppings}` pizza
+- I want a `{toppings}` pizza
 
-\- I want a pizza
+- I want a pizza
 
 
 

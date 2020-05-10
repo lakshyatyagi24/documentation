@@ -1,4 +1,6 @@
-# What You'll Learn 🧠
+# Speak Block
+
+## What You'll Learn 
 - What the Speak block does
 - How to make your Voice Assistant speak
 - How to use different Alexa voices throughout your skill
@@ -8,12 +10,17 @@
 ## Overview
 The Speak block allows you to output speech and audio for the user. With the Speak block, you can have your assistant talk to the user in a variety of voices, as well as play audio files.
 
+
+<img src="https://i.imgur.com/eAXfWMP.png" alt="img" style="zoom:80%;" />
+
 ## Speak block basics
 
 To output speech, drag in a Speak block and click on it. On the far left panel, you'll see a text box where you can enter text to output to the user.
 
 
 You can type anything!
+
+<img src="https://i.imgur.com/sInuhYe.png" alt="img" style="zoom:50%;" />
 
 ## Using different voices
 
@@ -42,7 +49,7 @@ Here, you can upload an audio file to be hosted on Voiceflow, or, you can link t
 
 Once you have added a file you will see the length of the file, and be able to preview the sound. You are able to traverse through your audio file by clicking on different parts of the audio player.
 
-
+<img src="https://i.imgur.com/prUJMzb.png" alt="img" style="zoom:50%;" />
 
 
 ### Alexa specific limitations:

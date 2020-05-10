@@ -1,9 +1,11 @@
-## **What You'll Learn **
+# Card Block
+
+## What You'll Learn 
 
 - What the Card block is and how it works
 - How to send users Simple and Standard cards
 
-## **What the Card Block Does**
+## What the Card Block Does
 
 The card block sends users a card with information to their Alexa app on their phone. All users with an Alexa enabled device will have the Alexa app installed. This block allows you to send both text and images to the users mobile app.
 

@@ -1,4 +1,6 @@
-## **What you'll learn**
+# API Block
+
+## What You'll Learn
 
 - What the API block is and how it works
 - How to use the API block
@@ -8,8 +10,9 @@
 ## What is the API block
 
 
+The API block lets you send APIs.
 
-The API block allows you to hit any API on the internet. This could mean Google sheets, Twitter or even your own services can be hit to send and retrievee information. The API block works similarly to any regular API request you would make. Because API's can be so vast and the rules are dictated by the specific API creator, you need to follow their documentation in order to make it work effectively. 
+The API block allows you to hit any API on the internet. This could mean Google sheets, Twitter or even your own services can be hit to send and retrievee information. The API block works similarly to any regular API request you would make. Because API's can be so vast and the rules are dictated by the specific API creator, you need to follow their documentation in order to make it work effectively.
 
 ![img](https://i.imgur.com/BC2pYUm.png)
 
@@ -21,7 +24,7 @@ The API block consists of several parts:
 - The endpoint
 - Headers, Body and Params
 - Saving to variables
-- Test Request 
+- Test Request
 
 ![img](https://i.imgur.com/vThs844.png)
 
@@ -35,7 +38,7 @@ There are 5 standard request types available through the API block.
 - PATCH - Partially updates information in your data source
 - DELETE - Deletees information in your data source
 
-## Endpoint 
+## Endpoint
 
 The endpoint is the URL that points to your API. Similar to website URL, your endpoint URL is where your requests will be sent to speak with your API.
 

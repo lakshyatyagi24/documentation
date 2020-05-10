@@ -1,18 +1,20 @@
-**# What you'll learn**
+# Choice Block
 
- \- What Choice blocks are
+## What You'll Learn
 
-\- How to add choices for your users to make
+- What Choice blocks are
 
-\- How choices work when the user answers properly
+- How to add choices for your users to make
+
+- How choices work when the user answers properly
 
 
 
-**## Related articles**
+## Related articles
 
-\- Intents and Slots
+- Intents and Slots
 
-**## What Are Choice Blocks?**
+## What Are Choice Blocks?
 
 Choice blocks allow you to ask users to make a choice from a pre-defined list of choices. If the user says one of the choices listed in the choice block, it will follow that choice's path. If the user says something that isn't one of the listed choices, the user will follow the ELSE path.
 
@@ -22,7 +24,7 @@ Choice blocks allow you to ask users to make a choice from a pre-defined list of
 
 
 
-**## Adding Choices**
+## Adding Choices
 
 To add choices, drag the choice block out from your block menu onto the canvas. You will automatically have a single choice ready. Select an intent from the drop down list to complete your choice block. 
 

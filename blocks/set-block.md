@@ -1,10 +1,9 @@
-## What you'll learn
+## What You'll Learn
 
 - What Set blocks are and how they function
 - How to Set variables manually
 - How to Set variables 
 
-**Video tutorial:**
 
 **About the Set block**
 

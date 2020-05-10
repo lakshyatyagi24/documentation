@@ -1,3 +1,5 @@
+# Google Sheets Block
+
 ## What you will learn
 
 - How to connect a Google account for sheets integration

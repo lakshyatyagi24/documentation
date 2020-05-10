@@ -1,14 +1,15 @@
-## **What You'll Learn **
+# Exit Block
+
+## What You'll Learn 
 
 - What the Exit block is and how it works
 - How to end skills within command blocks using the Exit block
 
-## **What the Exit Block Does**
+## What the Exit Block Does
 
 The name is self-explanatory, but when executed, the Exit block will exit the skill. The skill will end immediately without any text playing. Its use is very convenient to **leave the skill from a flow** (by default, the flow will return to the last place from which it was used).
 
-![img](https://i.imgur.com/ECM6kym.png)
-
+<img src="https://i.imgur.com/ECM6kym.png" alt="img" style="zoom:50%;" />
 
 
 ## When the exit block is not needed
