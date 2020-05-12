@@ -3,10 +3,6 @@
 **VOICEFLOW QUICKSTART**
   - [Get started with Voiceflow](/quickstart/get-started-with-voiceflow.md)
   - [What can I do with Voiceflow](/quickstart/what-can-i-do-with-voiceflow.md)
-  - [Testable Links](/quickstart/testable-links.md)
-  - [Downloadable Links](/quickstart/downloadable-links.md)
-
-
 
 **BLOCKS** 
   - [Start block](/blocks/start-block.md)
@@ -42,8 +38,9 @@
   - [Alexa skill retention](/tutorials/alexa-skill-retention.md)
   - [Alexa Skill Certification Checklist](/tutorials/alexa-skill-certification-checklist.md) 
   - [Advanced Tutorials](#)
-    - [Beta testing your Skill](/tutorials/advanced-tutorials/using-beta-testing-with-your-alexa-skill.md)
     - [Check for a number](/tutorials/advanced-tutorials/checking-if-number.md)
+    - [Tracking user sessions](/tutorials/advanced-tutorials/tracking-user-sessions.md)
+    - [Beta testing your Skill](/tutorials/advanced-tutorials/using-beta-testing-with-your-alexa-skill.md)
 
 **FAQ**
   - [How Voiceflow works](/faq/how-voiceflow-works.md)
