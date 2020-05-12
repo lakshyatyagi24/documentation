@@ -28,6 +28,9 @@
   - [Exit block](/blocks/exit-block.md)
   - [Card block](/blocks/card-block.md)
 
+**MONETIZATION** 
+  - [Alexa in skill purchases (ISP)](/monetization/alexa-in-skill-purchases.md)
+
 **GOOGLE ACTIONS** 
   - [Uploading your project to Google Assistant](/adapting-for-google/uploading-your-project-to-google-assistant.md)  
   - [Deploying your Google Assistant project to production](/adapting-for-google/deploying-your-google-assistant-project-to-production.md)
@@ -37,8 +40,13 @@
 **TUTORIALS**
   - [What are Alexa skills and Google actions?](/tutorials/what-are-alexa-skills.md)
   - [Alexa skill retention](/tutorials/alexa-skill-retention.md)
+  - [Alexa Skill Certification Checklist](/tutorials/alexa-skill-certification-checklist.md) 
+  - [Advanced Tutorials](#)
+    - [Beta testing your Skill](/tutorials/advanced-tutorials/using-beta-testing-with-your-alexa-skill.md)
+    - [Check for a number](/tutorials/advanced-tutorials/checking-if-number.md)
 
 **FAQ**
+  - [How Voiceflow works](/faq/how-voiceflow-works.md)
   - [Locales](/faq/locales.md)
   - [Legal](#)
     - [Voiceflow Terms of Service](/faq/legal/voiceflow-terms-of-service.md)
