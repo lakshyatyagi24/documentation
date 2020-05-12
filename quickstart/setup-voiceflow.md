@@ -1,8 +1,7 @@
-**# Setup Voiceflow**
+# Setup Voiceflow
 
 
-
-**## Steps to create Account**
+## Steps to create Account
 
 - Open Voiceflow page (https://www.voiceflow.com/)
 
