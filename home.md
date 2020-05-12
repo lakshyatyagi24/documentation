@@ -10,7 +10,7 @@ Everything you want to know about Voiceflow - in one place.
 
 Learn more about Voiceflow, from its features and functionality to best use cases.
 
-[Get started with Voiceflow/home/get-started-with-voiceflow](https://docs.voiceflow.com/home/get-started-with-voiceflow)
+[Get started with Voiceflow](/quickstart/get-started-with-voiceflow.md)
 
 - What is Voiceflow?
 - Who should use Voiceflow?
@@ -20,7 +20,7 @@ Learn more about Voiceflow, from its features and functionality to best use case
 
 Dive right into designing and building with the help of fast and easy Voiceflow tutorials.
 
-[Beginner video series/tutorials/beginner-video-series](https://docs.voiceflow.com/tutorials/beginner-video-series)
+[Beginner video series/tutorials](https://www.youtube.com/channel/UCbqUIYQ7J2rS6C_nk4cNTxQ/)
 
 - Full video walkthroughs
 - Easy to follow tutorials
@@ -30,8 +30,6 @@ Dive right into designing and building with the help of fast and easy Voiceflow 
 
 Learn about specific Voiceflow features and functionality. Best for professional designers and developers.
 
-[Voiceflow Guide Home 🏠/](https://docs.voiceflow.com/)
-
 - Full feature documentation
 - Integrations and blocks overview
 - In-depth feature guides
@@ -40,7 +38,7 @@ Learn about specific Voiceflow features and functionality. Best for professional
 
 Learn about new features releases and our upcoming feature roadmap.
 
-[New releases 🔥/releases/releases](https://docs.voiceflow.com/releases/releases)
+[New releases 🔥](/releases/releases)
 
 # **Voiceflow Community Resources ℹ️**
 
@@ -52,13 +50,11 @@ Get help from other Voiceflow community members and users through our community 
 - [Voiceflow Slack Community](https://join.slack.com/t/voicefirst-workspace/shared_invite/enQtNjUzMDgxNDk5MjY4LWFlMzBlNzRmZGIzNDBmZmFiMmJiYjE1NTk1YmE5MWViZWZlZGQ3YmI1ZjVlZDJhYzRjNTY2MzYzNjNlYTc0MzE)
 - [Voiceflow Forums](https://forum.voiceflow.com/)
 
-# **Frequently Asked Questions ❓**
+[//]: # (# **Frequently Asked Questions ❓**)
 
-[Pricing/faq/pricing](https://docs.voiceflow.com/faq/pricing)
-
-- Pricing
-- Migration
-- Security
+[//]: # (- Pricing)
+[//]: # (- Migration)
+[//]: # (- Security)
 
 # **Voiceflow Social Channels ✉️**
 

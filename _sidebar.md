@@ -1,4 +1,4 @@
-- [HOME](home.md)
+- [HOME](/#/home.md)
 
 **VOICEFLOW QUICKSTART**
   - [Get started with Voiceflow](/quickstart/get-started-with-voiceflow.md)
