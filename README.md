@@ -10,74 +10,16 @@ Everything you want to know about Voiceflow - in one place.
 - Visual Studio Code (Editor)
 - Macdown (Markdown preview tool)
 
+## Getting Started
 
 
-# Set up
+### [Set Up](/_setup/setup-repo.md)
 
-1. Download [GitHub desktop](https://desktop.github.com/)
+### [Contributing](_setup/contributing.md/)
 
-![img](https://i.imgur.com/58cm52i.png)
+### [Uploading Images](/_setup/upload-images.md)
 
-2. Log in with your Github account
-3. Hit "clone a repository from the internet"
-
-![img](https://i.imgur.com/58cm52i.png)
-
-4. Head to Voiceflow/documentation Github repository
-5. Paste it into the text box (`https://github.com/voiceflow/documentation.git`)
-
-![img](https://i.imgur.com/3dMY0By.png)
-
-
-
-
-
-# Contributing
-
-<!-- 1. Create new branch 
-
-![img](https://i.imgur.com/Ykt2vVM.png)
-
-![img](https://i.imgur.com/oZsWDjM.png) -->
-
-1. Open the project in your code editor
-
-![img](https://i.imgur.com/QLqidhp.png)
-
-2. Find the folder you want to add your new article to and add the markdown file
-3. Head to _sidebar.md and add your article under any of the categories
-4. Head to Github and add a comment detailing what changes you made
-
-![img](https://i.imgur.com/wYNn7E6.png)
-
-5. Hit Publish
-
-![img](https://i.imgur.com/cGVY2Ie.png)
-
-6. When prompted to fork a new repository hit "Fork this repository"
-
-![img](https://i.imgur.com/FJSogiy.png)
-
-
-# Submitting your changes
-
-1. Head to Voiceflows Documentation Github page (https://github.com/voiceflow/documentation)
-
-2. Hit "New Pull Request"
-
-![img](https://i.imgur.com/Zd20gqC.png)
-
-3. Hit "Compare across forks"
-
-![img](https://i.imgur.com/iFITAfJ.png)
-
-4. Find your branch in the drop down and select the one linked to your Github account
-
-![img](https://i.imgur.com/beSyRsc.png)
-
-5. Fill out details about the changes that were made and hit "Create Pull Request"
-
-![img](https://i.imgur.com/lMHyf9h.png)
+### [Submitting Changes](/_setup/submitting-changes.md)
 
 
 # General Rules and Etiquette 
@@ -102,9 +44,9 @@ File format:
     - Prerequisites
     - Content (Content that the doc article is about)
 
-## Branch ettiquette
+## Forking ettiquette
 
-- All new changes MUST be put on a branch with a specific name.
+- All new changes MUST be put on a fork with a specific name.
     - Good ettiquette: “Google Home update”
     - Bad etiquette: “new article”
 - All new branches must create pull requests to the `dev` environment

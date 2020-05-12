@@ -1,4 +1,4 @@
-- [HOME](home.md)
+- [HOME](/#/home.md)
 
 **VOICEFLOW QUICKSTART**
   - [Get started with Voiceflow](/quickstart/get-started-with-voiceflow.md)
@@ -17,6 +17,7 @@
   - [Stream block](/blocks/stream-block.md)
   - [Flow block](/blocks/flow-block.md)
   - [API block](/blocks/api-block.md)
+  - [Google Sheets block](/blocks/google-sheets-block.md)
   - [Code block](/blocks/code-block.md)
   - [User Info block](/blocks/user-info-block.md)
   - [Reminder block](/blocks/reminder-block.md)
