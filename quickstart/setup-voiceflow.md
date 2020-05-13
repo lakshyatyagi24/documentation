@@ -1,20 +1,16 @@
 # Setup Voiceflow
 
 
+
 ## Steps to create Account
 
 
-\- Open Voiceflow page (https://www.voiceflow.com/)
+- Open Voiceflow page (https://www.voiceflow.com/)
 
 
+- Click _Get Started For Free_ or click _Sign Up_
 
-\- Click *_Get Started For Free_* or click *_Sign Up_* 
-
-
-
-![](https://imgur.com/aciCWvk)
-
-
+![img](https://i.imgur.com/aciCWvk.png)
 
 \- Signup by entering your *_Full Name_*, *_Email Address_* and *_Password_* or signup with ![](C:\Users\PROGRAMMER\Documents\GitHub\documentation\images\icons8-google-48.png) *_Google_* or signup with ![](C:\Users\PROGRAMMER\Documents\GitHub\documentation\images\icons8-facebook-48.png) Facebook.
 
