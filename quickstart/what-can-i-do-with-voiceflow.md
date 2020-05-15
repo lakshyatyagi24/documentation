@@ -8,7 +8,7 @@ Learn about some of Voiceflow's key features.
 
 # **Design & Prototype (Designers)**
 
-![img](https://downloads.intercomcdn.com/i/o/107848567/7d05aab3a5cbc988e09d08ac/1.gif)
+![img](https://cdn.zappy.app/1a6cbac4ab515fd6067b4852154e9d4e.png)
 
 
 
@@ -16,7 +16,7 @@ You can use Voiceflow to design high fidelity voice app prototypes as good as th
 
 # **Build & Integrate (Developers)**
 
-![img](https://downloads.intercomcdn.com/i/o/107849048/d854759594390810a03ea2ac/2.gif)
+![img](https://cdn.zappy.app/c70ed87ce16f08365cddeb01bbe980e4.png)
 
 
 
@@ -28,7 +28,7 @@ Voiceflow makes it faster & easier to build out a well-designed voice interface 
 
 # ****Launch & Optimize (Everyone)****
 
-![](https://downloads.intercomcdn.com/i/o/107850495/d5a2adb99aead544207bdb70/3.gif)
+![img](https://cdn.zappy.app/e1f57c1ce5850f181b0b69739b0b34b9.png)
 
 With Voiceflow, you can launch your Alexa Skills & Google Actions directly to their respective stores.
 
