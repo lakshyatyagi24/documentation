@@ -13,4 +13,3 @@
 
 - Delete all of the remaining text and click off the comment.
 
-![](https://cdn.zappy.app/77c05cf0fe2837287988e5a9d2aae26e.gif)
