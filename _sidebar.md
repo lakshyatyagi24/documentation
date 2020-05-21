@@ -6,7 +6,7 @@
   - [Testable Links](/quickstart/testable-links.md)
   - [Downloadable Links](/quickstart/downloadable-links.md)
   - [Adding Comments](/quickstart/adding-comments.md)
-
+  - [Migrating a live skill](/quickstart/migrating.md)
 **BLOCKS** 
   - [Start block](/blocks/start-block.md)
   - [Speak block](/blocks/speak-block.md)
