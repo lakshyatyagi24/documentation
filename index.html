@@ -2,25 +2,30 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Voiceflow Docs | Voiceflow (VF) is the central platform for designing, prototyping, and building voice apps.</title>
+  <title>Voiceflow Guide Home 🏠 - Voiceflow Docs</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
+  <meta name="description" content="Voiceflow (VF) is the central platform for designing, prototyping, and building voice apps.">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <!-- Theme: Simple -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
 <link rel="stylesheet" href="//unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.css">
 <!-- <link rel="stylesheet" href="_style/nav.css"/> -->
 <!-- <link rel="stylesheet" href="_plugins/changelog/style.css"/> -->
-<link
-  rel="stylesheet"
-  href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"
-/>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
 </head>
 <body>
   <div id="app"></div>
   <nav></nav>
   <script>
     window.$docsify = {
+     alias: {
+       '/voiceflow-documentation/untitled/exit-block': '/blocks/exit-block',
+       '/home/get-started-with-voiceflow':'/quickstart/get-started-with-voiceflow',
+       '/home/what-can-i-do-with-voiceflow':'/quickstart/what-can-i-do-with-voiceflow',
+       '/voiceflow-documentation/how-voiceflow-works':'/faq/how-voiceflow-works',
+       '/voiceflow-documentation/untitled': '/',
+       '/voiceflow-documentation/integrations':'/blocks/api-block',
+      },
     name: 'Voiceflow Docs',
     logo: 'https://gblobscdn.gitbook.com/spaces%2F-LgK_X2m6IAIYcINBjCj%2Favatar.png?generation=1559435304289199&alt=media',
     themeColor: "#162242",
@@ -53,18 +58,20 @@
       spinnerBarColor: 'rgb(45, 140, 240)',
       spinnerTrackColor: 'rgba(45, 140, 240, .3)',
     },
-    search: 'auto', // default
+    search: 'auto', // forced auto
     'flexible-alerts': {style: 'callout'},
     search : [
-      '/en/',            // => /README.md
-      '/guide',       // => /guide.md
-      '/get-started', // => /get-started.md
-      '/zh-cn/',      // => /zh-cn/README.md
+      '/adapting-for-google',
+      '/blocks',
+      '/faq',
+      '/quickstart',
+      '/releases',
+      '/tutorials',
     ],
     // complete configuration parameters
     search: {
       maxAge: 86400000, // Expiration time, the default one day
-      paths: [], // or 'auto'
+      paths: 'auto',
       placeholder: 'Type to search',
       // Localization
       placeholder: {
@@ -78,7 +85,7 @@
         '/': 'No Results'
       },
       // Headline depth, 1 - 6
-      depth: 2,
+      depth: 4,
       hideOtherSidebarContent: false, // whether or not to hide other sidebar content
       // To avoid search index collision
       // between multiple websites under the same domain
@@ -86,6 +93,7 @@
     },
     loadNavbar: true,
     //changelog : '_changelog/CHANGELOG.md'
+    
   }
   </script>
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>

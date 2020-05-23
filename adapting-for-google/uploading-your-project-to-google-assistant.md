@@ -133,7 +133,7 @@ In the pop-up that appears, select 'JSON' as the key type and click [CREATE]. Th
 
 Upload the file you just downloaded to Voiceflow in the Google publishing page under the 'Google Assistant Credentials File' field.
 
-![img](https://gblobscdn.gitbook.com/assets%2Fcreator%2F-LgtQ3OQ5vf3eXZiNpGl%2F-LgtWTkDC_bTXXMnJ-E0%2F16.jpeg?generation=1560038207987956&alt=media)
+![img](https://downloads.intercomcdn.com/i/o/211442250/783d229796f73dd2d09cc2d0/vocieflow+2020-05-22+at+16.28.17%402x.png)
 
 
 

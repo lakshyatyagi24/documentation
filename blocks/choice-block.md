@@ -57,3 +57,19 @@ You can use the ELSE on a Choice block as an "Error Handler". The Error Handler 
 
 
 <img src="https://i.imgur.com/riGC5jE.png" alt="img" style="zoom:80%;" />
+
+
+# **No Reply Response**
+
+If Alexa fails to map whatever the user says to any intent defined in your skill, the No Reply Response occurs. For instance if the user says nothing, gibberish, or *words that aren't part of any intent*, it does not map to an intent. A reprompt needs to be defined with the last outgoing message and the Voiceflow service receives no information when a reprompt happens.
+
+We send out each choice with the default reprompt of the last spoken thing. So if you have a speak block "What color do you like?" followed by a choice block, and Alexa fails to map to an intent, it will simply repeat "What color do you like?"
+
+However, Voiceflow allows you to define custom No Reply Response if you don't want it to repeat the same thing. This can be done on any choice or capture block.
+
+![img](https://cdn.zappy.app/3338a4aa21d08c5812a917125adee5cd.png)
+
+![img](https://cdn.zappy.app/5d68320e17c50f63053b733d68fb94a9.png)
+
+No Reply Response only occur twice and will exit the skill if it still doesn't understand the third time.
+
