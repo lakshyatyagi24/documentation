@@ -27,7 +27,7 @@
 
    2. **Icons:** Icons are what will be displayed for your Skill in the Amazon web store. You need to upload 2 icon Large Icon of size 512 x 512 Pixel PNG or JPG and Small Icon of size 108 x 108 Pixel PNG or JPG. (If you want to create Icons than [Click Here](https://developer.amazon.com/docs/tools/icon-builder.html))
 
-      ![](https://i.imgur.com/2r4PPrb.png)
+   ![](https://i.imgur.com/2r4PPrb.png)
 
 3. Enter Skill Description:
 
@@ -49,7 +49,7 @@
 
    1. **Locales:** Locale determines your skill's availability. Your skill will be available in the regions you select here.
 
-![](https://i.imgur.com/EqZJS2C.png?1)
+   ![](https://i.imgur.com/EqZJS2C.png?1)
 
 6. Enter URL of Privacy and Terms:
 
@@ -79,4 +79,4 @@
 
       > Please detail any special instructions our team will need in order to  test your skill. Include any account or hardware requirements. If your  skill requests permissions, include ways to test these permissions  requests. This information is not displayed to customers.
 
-![](https://i.imgur.com/kFTluZk.png)
+   ![](https://i.imgur.com/kFTluZk.png)
